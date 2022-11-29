@@ -77,3 +77,9 @@ footer{
 footer h1 {
     font-size: 3rem;
 }
+@media (max-width: 700px) {
+    .img {
+        margin-left: 3rem;
+        padding: 2rem;
+    }
+  }
