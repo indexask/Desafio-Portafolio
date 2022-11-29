@@ -1,0 +1,74 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+p{
+    color: #707070;
+    padding: 0;
+    margin: 0;
+    
+}
+.cardbody{
+    text-align: right;
+}
+.card-text{
+    font-size: 13pt;
+    font-weight: 300;
+    
+}
+.card-title{
+    font-size: 20pt;
+    font-weight: 300;
+    color: #212529;
+}
+.cards{
+    padding-left: 23px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.pr{
+    font-size: 20px;
+}
+.btn{
+    margin: 20px;
+}
+.copy{
+    padding-top: 10px;
+    font-weight: 300;
+}
+.text-center{
+    width: 100px;
+    padding-top: 20px;
+}
+/* .container{
+    padding: 2rem;
+} */
+.tittle-mp{
+    padding: 4rem;
+    text-align: center;
+    padding-bottom: 2rem;
+}
+.presentacion{
+    display: inline-block;
+    padding: 4rem;
+    font-size: 1rem;
+}
+.img{
+    margin-left: 16rem;
+    padding: 2rem;
+    float: left;
+}
+section{
+    background-color: aqua;
+}
+.row{
+    padding-left: 4rem;
+}
+h2{
+    text-align: center;
+}
+article{
+    text-align: center;
+}
+article h2{
+    text-align: center;
+}
