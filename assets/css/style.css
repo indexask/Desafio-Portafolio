@@ -39,15 +39,13 @@ p{
     width: 100px;
     padding-top: 20px;
 }
-/* .container{
-    padding: 2rem;
-} */
 .tittle-mp{
     padding: 4rem;
     text-align: center;
     padding-bottom: 2rem;
 }
 .presentacion{
+    width: 50rem;
     display: inline-block;
     padding: 4rem;
     font-size: 1rem;
@@ -71,4 +69,11 @@ article{
 }
 article h2{
     text-align: center;
+}
+footer{
+    text-align: center;
+    background-color: aqua;
+}
+footer h1 {
+    font-size: 3rem;
 }
